@@ -1,0 +1,109 @@
+credentials:
+  usernames:
+    user:
+      email: user@netspend.com
+      name: User
+      password: $2b$12$OPza3O1noVlexF.lW2FVgOKNW4rESlcpXgov/zfkGJjZFdY5NkNgi #nxrbot
+    admin:
+      email: admin@netspend.com
+      name: Admin
+      password: $2b$12$Yg0KJPUtv7VWhBmDuqVE4OuQYt6iyvRoWRUWI.4if9nP1H7W6gaRS #nxradmin
+    Aman:
+      name: Aman
+      password: $2b$12$umtjNOCHiOEJ5AFjQ9FzHORPzkM5dPgXQTAGLI1/snTb8xzp.yki6
+    Srikar:
+      name: Srikar
+      password: $2b$12$sma1GfvCOreY6uHfE7AjseF1bl2kKRaIneeRU4cNRRXAbTNglsHX2
+    Advent:
+      name: Advent
+      password: $2b$12$Di5Kk/WGqn59aWrRhc5eAOmIwRicijmiWKaMRF9CMKLx8m5nlvfx2
+    Cliffo:
+      name: Cliffo
+      password: $2b$12$MllN96kj0TXU.KwYXkJk7.1sinq9H.Ye.Sc.aV7uNW9dMCvHPZ9V6
+    Journey:
+      name: Journey
+      password: $2b$12$pO43z/oFslC0lzA9T5ijwuTbOebErodU.54hLfk6pDBVU35QT4pj.
+    Jovial:
+      name: Jovial
+      password: $2b$12$umd2uf5a4xt9iy2L9tTVJuOsk/aJAcENPunlxgkp9/senLgi2UHiu
+    Jungle:
+      name: Jungle
+      password: $2b$12$q8BdF2AEi3NuPOf5layVp.zrYtRorgyw091kcvebPBVyXxd2ujMDa
+    Mystic:
+      name: Mystic
+      password: $2b$12$7YZouxDbLpC87x0BC0ym6Oi7cQ2tHq9WiqphFPeCHNsBlgyI3cVNm
+    Nomado:
+      name: Nomado
+      password: $2b$12$d/2egoPzlFiESuH8rTQd8eXXANlhX00RGA7dI6HF9uGpiGOrnlJ/S
+    Nomino:
+      name: Nomino
+      password: $2b$12$EWUQfU9KPNezbuuyyzTTN.iX.OydQ1kDu2nUHN.o8zBVkDkoZBLHO
+    Pathio:
+      name: Pathio
+      password: $2b$12$VboyAvHzUQ1hZ/UUkYyrQuglHtua2fnMmxBRljOCQRuK8QvX3WMki
+    Pilogo:
+      name: Pilogo
+      password: $2b$12$jib4BSrCaZaS1hoojwDpOe7Ebg9UpCIxkD43fMFKvweA5/MRVTwki
+    Pioneer:
+      name: Pioneer
+      password: $2b$12$FjIGCM5.ORoPrkS2bmdnvuVQHuV1ChdNkq7PJ4QC3xOPWasvLsnAG
+    Questo:
+      name: Questo
+      password: $2b$12$2DbYDR8gvV77n1BjQVpiZOsvOYJQ4oPamfqwR/6C0.3UsdN4DYVg6
+    Rambla:
+      name: Rambla
+      password: $2b$12$UQY6HOm97wBWGMxgAtSLhOqPMM2hpidZxnmEZMHVMo66jp2SvOAqy
+    Ramble:
+      name: Ramble
+      password: $2b$12$.a9iWlUEaSImfscmwpHpfOFp7g3UDMHVWi0tRNCRp33EVdYKlCrdy
+    Roamer:
+      name: Roamer
+      password: $2b$12$Wqb3EaaLZqf49ujs4Wvw5.cK2LLm3xN8pLpi.a8kROQb7V6fZWstW
+    Roamio:
+      name: Roamio
+      password: $2b$12$6vQiVBKyqx.4u3p4tPX9tuB.BbDLwwXbu7dUdEVZraGEMknu1aglC
+    Rovera:
+      name: Rovera
+      password: $2b$12$Wdc4JQGOBZo/o9JcrDgT9eNujNgaD8z98MK9hiVrMQEX7wECc6SQG
+    Scouto:
+      name: Scouto
+      password: $2b$12$Lt2nAgSPKBZA6DdycZhA2uilgLZ8Qrr6W.amIaJ/SFHkC4RRBefGG
+    Seeker:
+      name: Seeker
+      password: $2b$12$3wVa4LyWrD4mXJ8hReFTueN52LNap.wf3MGb8il3.XR.cWCMxORNe
+    Tracer:
+      name: Tracer
+      password: $2b$12$5S.I1hw5VBwrG2HIEGWYDeMtp/YheKuEUbIKJlM8IGIePioaEAukO
+    Trails:
+      name: Trails
+      password: $2b$12$tvgfeYhHAU/DjSMSoslZw.5qteUpzeOtl0UC7q8myqHKyRCcVKwVi
+    Trekko:
+      name: Trekko
+      password: $2b$12$VHopP10McDVax6VWgH0a0uApyjzfAueZxmEB/y9//Qfk4PcdTcWsS
+    Twisty:
+      name: Twisty
+      password: $2b$12$GR06Hr.XfO/WQDZRo0qyfOYQizeFsDXRndLfGYrC/BxXdrI9mv.W.
+    Vagabo:
+      name: Vagabo
+      password: $2b$12$UzJAMxz5IJLP2vmRywduDe/bdU6uX9Rey3KFSvAo8gigdCsttHNYS
+    Vagary:
+      name: Vagary
+      password: $2b$12$xNNlnXs9C3GtrUXTp7D4AOYK8SV9dSpUTkYLd8iXfxfe6psdA7pdW
+    Voyago:
+      name: Voyago
+      password: $2b$12$WbUS18PVFmOlXJzUHyYcOeWMosXADUqA7YlXZfEfKYntHCP1yldVS
+    Voyolo:
+      name: Voyolo
+      password: $2b$12$czRyb7IOkw7y1EoJHBcKu.Ko1XR4yrGwEsYI.65xi28pE2BPgf4RO
+    Wander:
+      name: Wander
+      password: $2b$12$xdpcxZC0Cxi7HzFqFsoOneEweUL30vE6rc3Zw6ZFwQSjJ.TaBIK6u
+    Wayfar:
+      name: Wayfar
+      password: $2b$12$fuk1jt8hD4u25VRiK7OSUuFJjlVtTevKOTXSYz6NQwgCaxlOyJefG
+cookie:
+  expiry_days: 1
+  key: netspend@2024 # Must be string
+  name: netspend_docqna_poc_v1
+preauthorized:
+  emails:
